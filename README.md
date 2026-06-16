@@ -9,5 +9,6 @@ Një aplikacion Console në C# që menaxhon produktet e një dyqani me operacion
 - **Delete** – fshin një produkt
 ## Si ekzekutohet
 Duhet të kesh të instaluar .NET SDK. Pastaj, te dosja e projektit:
-```dotnet run
+```
+dotnet run
 ```
